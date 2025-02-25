@@ -111,7 +111,7 @@ footer {
     width: 100%;
 }
 
-@media (max-width:37.5rem){
+@media (max-width:800px){
     .gallery {
         
         grid-template-columns: 1fr;
