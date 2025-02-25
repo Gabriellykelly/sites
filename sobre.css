@@ -78,7 +78,7 @@ a{
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: background-color 0.3s ease;
 }
-@media (max-width:800px){
+@media (max-width:850px){
     .about-content {
      display: grid;
      grid-template-columns: 1fr;
